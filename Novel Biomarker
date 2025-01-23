@@ -1,0 +1,44 @@
+Methods and Results Summary
+Here is a breakdown of the methods used and their corresponding results:
+
+1. Data Sources and Analysis
+Methods:
+
+Data from The Cancer Genome Atlas (TCGA)-GBM dataset was analyzed using bioinformatics tools such as UCSC Xena, GEPIA, TIMER 2.0, and TISIDB.
+Gene expression and immune cell distribution were explored using RNA-sequencing data.
+Differential gene expression (DEG) analysis and Gene Set Enrichment Analysis (GSEA) were performed to identify pathways enriched in MAP17-high vs. MAP17-low groups.
+Results:
+
+MAP17 was identified as a key marker associated with the slow-cycling glioblastoma phenotype, characterized by quiescence, stemness, and therapy resistance.
+Enrichment of mesenchymal and stem-cell-related pathways was observed in MAP17-high groups.
+MAP17 was also associated with immune processes, such as immune checkpoint inhibitors and antigen presentation.
+2. Survival Analysis
+Methods:
+
+Kaplan-Meier survival analysis was conducted to compare overall survival (OS), disease-specific survival (DSS), and progression-free intervals (PFI) between high and low MAP17 groups.
+Results:
+
+High MAP17 expression correlated with worse OS, DSS, and PFI, highlighting its prognostic value.
+3. Immune Microenvironment and Pathway Analysis
+Methods:
+
+Immune cell distribution was analyzed using TISIDB.
+The STRING database was utilized for protein-protein interaction and pathway enrichment analysis.
+Cytokine signaling pathways were explored using Hallmark and Reactome analyses.
+Results:
+
+MAP17-high tumors showed an immunosuppressive microenvironment enriched in immune checkpoint inhibitors (e.g., PD-L1, TIM3, CTLA-4).
+The tumors also exhibited pathways related to IFN-γ signaling, antigen presentation, and inflammation.
+4. Histological Validation
+Methods:
+Immunohistochemistry data from the Human Protein Atlas was used to visualize MAP17 expression in GBM tissues.
+Results:
+High MAP17 expression was predominantly observed in mesenchymal glioblastoma subtypes.
+5. Metabolic Pathways
+Methods:
+
+Analysis of metabolic pathways enriched in MAP17-high groups, focusing on folate, zinc, and fatty acid metabolism.
+Expression levels of transporters involved in these pathways were evaluated.
+Results:
+
+MAP17 was strongly associated with metabolic pathways critical for the quiescent stem-like phenotype of glioblastoma cells.
