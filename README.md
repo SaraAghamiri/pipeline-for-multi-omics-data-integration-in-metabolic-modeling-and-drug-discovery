@@ -1,5 +1,4 @@
-# COMO-a-pipeline-for-multi-omics-data-integration-in-metabolic-modeling-and-drug-discovery
-Methods and Expertise Applied
+First, Click the star above for this GitHub repository! :)
 
   Data Preprocessing and Integration:
 
