@@ -1,7 +1,7 @@
 First, Click the star above for this GitHub repository! :)
 
-  Data Preprocessing and Integration:
-
+Goal:
+Data Preprocessing and Integration:
 Techniques: Processed bulk RNA-seq, single-cell RNA-seq, microarrays, and proteomics datasets.
 Skills Used: Data normalization, differential gene expression analysis, binarization of data, and integration using Docker and Python scripts.
 Outcome: Standardized omics datasets prepared for metabolic modeling.
